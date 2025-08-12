@@ -3,10 +3,10 @@
     {
       "kty": "RSA",
       "alg": "RS384",
-      "n": "nDStyvi3ZMKduw5h6KwXaQjtxmCNI-deT0yiHef1T8_VQYvN9I9nbUG9wtdq6f0W7YmQeHB1yHou_iA70JC8qJbIfG8nBGoJN9_QHzeg-7Y-x1oFqIiz1UcvxcN6WmW97q82FdzHV7ZoQ_iWXEk40w4cNAkJAa1Li4TZL-OfbOvE2lAxba8L2qt5AZu_slDMATkkP2vmvIt4yeKJKAraqn9ut4iX1g0QmiKkmUMJzEh0TAd8BRImwVMOATmBZm6CladPMdrSIH54oWXux3XxD6o2w0CgK2RNIjNFQepauKgOuoaNL98hVn59Sujnn5ZgOfmtEHbkQdOtv_RRkvFd0w",
+      "n": "zh7DwMS4UCCgpnEQQD1Qa3Zzjg3IOfrD1orQkpAYRAXAxCixkU4XFJSR-ZQxoBWwY1y0zsE1mJYkrzHLviOixbOTLMwYntHJeiXScMyvXJwYfGWnBaXq8ZTzNvGWuqfEOcDeQ927OrFMowRBe2wb6kIHbyG4D6MdkG7oPtJLw27gvMBSJDZBJrJQwnreMOrmqTlNMvyRWlKwI1QQmBIK2XePxdN3vGNSaYaLe3d-Plu90NF4XY-o4ikH0g2pqY0Yr6XTiq9mpQAddChho22ZooQA06THSP1USmjE78Po-wIAoPpUhKEFp9FvS1FCRYKB05s1yc9h8iCtpxhL9a9-aQ",
       "e": "AQAB",
       "use": "sig",
-      "kid": "harrison",
+      "kid": null,
       "key_ops": [
         "verify"
       ],
